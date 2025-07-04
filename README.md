@@ -108,9 +108,19 @@ Total: 752
 ## Summary: Key Takeaways
 ### Area	Insight
 Top Discounted Categories	Health & Personal Care, Computers & Accessories, Cars & Motorbike
+
 Highly Rated Products	Coffee Presser, Film, PowerLAN Adapters
+
 Top Reviewed Products	USB Cables, Headphones, Smart TVs
+
 Rating Trends	Higher discounts correlate with slightly lower average ratings
+
 Category with High Value	Electronics – high price, high discounts, many reviews, and large product count
+
 Low Engagement Categories	Toys & Games, Office Products, Health & Personal Care (low reviews)
+
+
+
 -  
+
+
