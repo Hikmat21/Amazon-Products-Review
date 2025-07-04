@@ -19,6 +19,8 @@ Each row represents a unique product, with aggregated reviewer data stored as co
 
 ## Analysis Tasks & Findings
 
+[Hikmat_Amazon_case_study 2025(2).xlsx](https://github.com/user-attachments/files/21065507/Hikmat_Amazon_case_study.2025.2.xlsx)
+
 Based on the dashboard visuals from, see comprehensive analysis of the Amazon product data:
 
 ## 1.  Discounts Overview:
