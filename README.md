@@ -3,8 +3,6 @@
 ## 1. Project Overview
 You are working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-## Link:
-- [Download](Hikmat_Amazon_case_study 2025(2).xlsx)
 ## 2. Dataset Description
 The dataset contains information scraped from Amazon product pages, including:
 
