@@ -10,6 +10,13 @@ Product details: name, category, price, discount, and ratings
 Customer engagement: user reviews, titles, and content
 Each row represents a unique product, with aggregated reviewer data stored as comma-separated values Total Records: 1,465 rows TotalFields: 16columns
 
+
+### Tools Used
+- Microsoft Excel
+- Excel Formula
+- Calculated Columns
+- Excel Dashboard Design
+
 ## Analysis Tasks & Findings
 
 Based on the dashboard visuals from, see comprehensive analysis of the Amazon product data:
